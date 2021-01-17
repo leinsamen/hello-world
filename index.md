@@ -1,5 +1,5 @@
-![Welcome image](/images/Welcome.jpg)
-Format: ![Alt Text](url)
+![Welcome image](/images/Welcome.pdf)
+
 
 
 
