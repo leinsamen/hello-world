@@ -1,4 +1,4 @@
-![Welcome image](/images/Welcome.pdf)
+![Welcome image](/images/welcome.jpg)
 
 
 
